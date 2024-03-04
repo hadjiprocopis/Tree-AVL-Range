@@ -1,0 +1,27 @@
+.BACKUP/24.06.2018_01.18.tgz
+.BACKUP/24.06.2018_02.22_GREAT.tgz
+.BACKUP/27.06.2018_14.50_OK.tgz
+bin/backup.bash
+bin/git_push.bash
+Changes
+ignore.txt
+lib/Tree/AVL/Range.pm
+lib/Tree/AVL/Range/Node1D.pm
+lib/Tree/AVL/Range/NodeND.pm
+Makefile.PL
+MANIFEST			This list of files
+README
+README.md
+t/00-load.t
+t/01-Node1D.t
+t/02-NodeND.t
+t/10-Range1D.t
+t/11-RangeND.t
+t/20-Range1D-more.t
+t/21-RangeND-more.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
+xt/benchmarks/00-Node1D-create.b
+xt/benchmarks/01-NodeND-create.b
+xt/boilerplate.t
